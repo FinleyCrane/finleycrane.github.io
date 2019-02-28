@@ -21,3 +21,8 @@ li a {
 li a:hover {
     background-color: slategray;
 }
+
+.center-div {
+    margin: 0 auto;
+    width: 100px;
+}
