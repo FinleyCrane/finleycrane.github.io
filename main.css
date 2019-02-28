@@ -24,6 +24,7 @@ li a {
 
 li a:hover {
     background-color: slategray;
+    transition-duration: 0.2s;
 }
 
 .center-div {
