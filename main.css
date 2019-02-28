@@ -7,7 +7,6 @@ ul {
     margin: 0;
     padding: 0;
     background-color: lightgray;
-    overflow: hidden;
 }
 
 li {
@@ -19,7 +18,7 @@ li a {
     display: block;
     color: black;
     text-align: center;
-    padding: 18px;
+    padding: 16px;
     text-decoration: none;
 }
 
@@ -30,5 +29,6 @@ li a:hover {
 
 .center-div {
     margin: 0 auto;
-    width: 100px;
+    width: -moz-fit-content;
+    
 }
