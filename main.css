@@ -2,6 +2,12 @@ body {
     background-color: black;
 }
 
+.div-bg {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
 ul {
     list-style-type:  none;
     margin: 0;
