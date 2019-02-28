@@ -1,6 +1,14 @@
 ul {
     list-style-type:  none;
-    margin: none;
-    padding: none;
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
 }
 
+li {
+    float: left;
+}
+
+li a:hover {
+    background-color: slategray;
+}
