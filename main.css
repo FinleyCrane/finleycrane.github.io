@@ -39,3 +39,12 @@ li a:hover {
     width: -moz-fit-content;
     
 }
+
+#main.document {
+
+    background: white;
+    margin: 0 auto;
+    width: -moz-fit-content;
+
+
+}
